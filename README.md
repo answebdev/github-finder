@@ -19,7 +19,7 @@ https://githubfinder865987920923.netlify.com/
 
 # Screenshots
 
-![Screenshot 01](screenshots/githubFinder-screenshot01.png "Landing Page")
+![Screenshot 01](screenshots/githubFinder-screenshot01.png "GitHub Finder")
 
 ![Screenshot 02](screenshots/githubFinder-screenshot02.png "Search Results Page")
 

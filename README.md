@@ -11,7 +11,7 @@ A custom CSS file is used, using classes that are similar to Bootstrap. The font
 * React
 * CSS
 
-# ESL Toolbox Website
+# GitHub Finder Live Link
 
 Please check out the live link for GitHub Finder here:
 
